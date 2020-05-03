@@ -1,9 +1,9 @@
 # Hackintosh
-CLOVER &amp; OpenCore For Acer Aspire M5 583P
+CLOVER &amp; OpenCore For Acer Aspire M5 583P-5859 (Maybe Working For Other 583P-xxxx)
 
 CLOVER:
-  1. 安装 ☑️
-  2. 亮度调节 ☑️
-  3. 声卡驱动 ☑️
-  4. EC控制器仿冒 ☑️
-  5. 核显另一种方法(设备属性) ☑️
+  1. Install ☑️
+  2. Backlight Control ☑️
+  3. Audio Card(ALC 282) ☑️
+  4. Fake Device EC ☑️
+  5. Device Properties For Intel HD4400 ☑️
