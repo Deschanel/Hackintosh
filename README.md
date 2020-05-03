@@ -7,3 +7,4 @@ CLOVER:
   3. Audio Card(ALC 282) ☑️
   4. Fake Device EC ☑️
   5. Device Properties For Intel HD4400 ☑️
+  6. Custom-Made USB ☑️
