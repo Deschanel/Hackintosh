@@ -95,11 +95,11 @@
 				<key>FixHDA</key>
 				<false/>
 				<key>FixHPET</key>
-				<false/>
+				<true/>
 				<key>FixIDE</key>
 				<false/>
 				<key>FixIPIC</key>
-				<false/>
+				<true/>
 				<key>FixIntelGfx</key>
 				<false/>
 				<key>FixLAN</key>
@@ -107,7 +107,7 @@
 				<key>FixMutex</key>
 				<false/>
 				<key>FixRTC</key>
-				<false/>
+				<true/>
 				<key>FixRegions</key>
 				<false/>
 				<key>FixS3D</key>
@@ -119,7 +119,7 @@
 				<key>FixShutdown</key>
 				<false/>
 				<key>FixTMR</key>
-				<false/>
+				<true/>
 				<key>FixUSB</key>
 				<false/>
 				<key>FixWAK</key>
@@ -473,6 +473,8 @@
 			<string>12</string>
 			<key>AFGLowPowerState</key>
 			<false/>
+			<key>Inject</key>
+			<string>No</string>
 			<key>ResetHDA</key>
 			<false/>
 		</dict>
@@ -485,6 +487,22 @@
 		<false/>
 		<key>LANInjection</key>
 		<false/>
+		<key>Properties</key>
+		<dict>
+			<key>PciRoot(0x0)/Pci(0x1B,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,27,0</string>
+				<key>device_type</key>
+				<string>Audio device</string>
+				<key>hda-gfx</key>
+				<string>onboard-1</string>
+				<key>layout-id</key>
+				<integer>19</integer>
+				<key>model</key>
+				<string>8 Series HD Audio Controller</string>
+			</dict>
+		</dict>
 		<key>SetIntelBacklight</key>
 		<true/>
 		<key>SetIntelMaxBacklight</key>
