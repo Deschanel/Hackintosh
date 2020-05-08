@@ -9,3 +9,4 @@ CLOVER:
   5. Device Properties For Intel HD4400 ☑️
   6. Custom-Made USB ☑️
   7. Keyboard Map & TrackPad & PS2 Mouse ☑️
+  8. ACPI Shortcut Keys For Brightness Control ☑️

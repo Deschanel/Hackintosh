@@ -125,6 +125,29 @@
 				<key>FixWAK</key>
 				<false/>
 			</dict>
+			<key>Patches</key>
+			<array>
+				<dict>
+					<key>Comment</key>
+					<string>change _Q8E to XQ8E</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>FEMKX1E4RQA=</data>
+					<key>Replace</key>
+					<data>FEMKWFE4RQA=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change _Q8F to XQ8F</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>FEMKX1E4RgA=</data>
+					<key>Replace</key>
+					<data>FEMKWFE4RgA=</data>
+				</dict>
+			</array>
 			<key>ReuseFFFF</key>
 			<false/>
 		</dict>
@@ -470,7 +493,7 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>layout-id</key>
-				<data>GQAAAA==</data>
+				<data>EwAAAA==</data>
 				<key>model</key>
 				<string>8 Series HD Audio Controller</string>
 			</dict>
