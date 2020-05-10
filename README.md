@@ -10,3 +10,4 @@ CLOVER:
   6. Custom-Made USB ☑️
   7. Keyboard Map & TrackPad & PS2 Mouse ☑️
   8. ACPI Shortcut Keys For Brightness Control ☑️
+  9. CPU PM & frequency ☑️

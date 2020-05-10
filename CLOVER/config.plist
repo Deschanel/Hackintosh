@@ -143,9 +143,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>FEMKX1E4RgA=</data>
+					<data>FEIKX1E4RgA=</data>
 					<key>Replace</key>
-					<data>FEMKWFE4RgA=</data>
+					<data>FEIKWFE4RgA=</data>
 				</dict>
 			</array>
 			<key>ReuseFFFF</key>
@@ -202,6 +202,8 @@
 				<key>CStates</key>
 				<false/>
 				<key>PStates</key>
+				<false/>
+				<key>PluginType</key>
 				<false/>
 			</dict>
 		</dict>
