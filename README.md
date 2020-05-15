@@ -11,3 +11,4 @@ CLOVER:
   7. Keyboard Map & TrackPad & PS2 Mouse ☑️
   8. ACPI Shortcut Keys For Brightness Control ☑️
   9. CPU PM & frequency ☑️
+  10. Fix ShutDown ☑️
