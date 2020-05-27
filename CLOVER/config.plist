@@ -147,6 +147,26 @@
 					<key>Replace</key>
 					<data>FEIKWFE4RgA=</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>rename _PTS to ZPTS</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>FE1TX1BUUwE=</data>
+					<key>Replace</key>
+					<data>FE1TWlBUUwE=</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change Method(_WAK,1,S) to ZWAK, pair with SSDT-PTSWAK.aml</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>FEKUX1dBSwk=</data>
+					<key>Replace</key>
+					<data>FEKUWldBSwk=</data>
+				</dict>
 			</array>
 			<key>ReuseFFFF</key>
 			<false/>
